@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# **Adl58**
+## **Что это**
 
-## Getting Started
 
-First, run the development server:
+_Это программа для учета долгов не весь бизнесь **отдель продаж** , **остаток склада (приход расход)** а просто кто, когда , сколько , и на какое время дольжен мне или я ему дольжен_
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## **Для кого это программа?**
+1. Продавцы любого уровена продаж и направление продаж
+2. Работники с ежемесячными зарплатами
+3. Аптеки которые немогут неотдавать родным в долг и чтобы потом незабывать о ных
+4. Продуктовые магазины со своими соседами ожидая их зарплать
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## **Какую проблему решает это программа?**
+* Все долги в одном месте и незабываются
+* Напоминает о долгох если пришло время оплаты или возврата
+* Можна найти должника по имени быстро и с подробными информациями о нем
+* Сохраняется история возврашение долга по частям - что облегчает определить можна ли давать в долг определенному человеку еще раз
+* Есть возможность сохранение фото или описание о долгах как вспоминание или доказательство об оплате по частям или самого долга
+* Возможность совместного использование должника и долгодавателя для прозрачности и актуальности данных для обоеих сторон
+* Можно экспортировать отчеты в виде фото или документа при необходимости или в случае долгих портнерств чтобы хранить и ввиде бумаг для польной безопасноти
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+##   **Three key-persons**
+
+# **Три ключевые персона кому точно нужна это программа**
+-  Мелькие торговцы
+-  Несистематизированные бизнесы любого направления и уровня
+-  Любое кто имеет дело с деньгами
+
+
+# **Сами определите нужна ли вам это программа если у вас ест:**
+* Бизнес в котором вы даете товары в долг своим клиентам хотябы 3 - 5 человеку в месяц
+* Бизнес где вы сами берёте по необходимости товары в долг на время 
+* Много портнерев что сойдетесь с пути и забываете кто сколько вернул и у кого сколько осталься ?
+
+# Features must be on MVP product:
+- Группировка долгов по папкам
+- Статистика долгов
+- Архив закрытых долгов
+- Калькулятор внутри
+- Разделение долгов на я долже / мне должны
